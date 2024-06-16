@@ -1,5 +1,15 @@
 # InventarioApp
 
+
+Hay un proyecto similar , este esta es una version de front-end en la version de Angular18 y la otra esta en la version de angular15, es principalmente un trabajo de investigacion y desarrollo personal.
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server
